@@ -1,0 +1,13 @@
+p{
+    font-size: 150%;
+}
+.cup{
+    height: 30%;
+    width: 20%;
+    float: right;
+    border: 2px 2px solid black;
+    margin: 0.5%;
+}
+body{
+    border: 1px solid black;
+}
